@@ -5,8 +5,7 @@ This privacy policy applies to the AGB Smart Track app (hereby referred to as "A
 
 1. Information we collect
 
-a.) User login information such as Email and Password. 
-b.) Current location of your device.
+a.) Current location of your device.
 
 2. How We Use Your Information
 
