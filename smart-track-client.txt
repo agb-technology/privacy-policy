@@ -1,25 +1,112 @@
-Privacy Policy
+Privacy Policy -- AGB Smart Track
 
-This privacy policy applies to the AGB Smart Track app (hereby referred to as "Application") for mobile devices that was created by AGB (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
+Last Updated: 2026-05-20
+
+This Privacy Policy applies to the AGB Smart Track mobile application (the "Application") developed and operated by AGB (the "Service Provider"). By using the Application, you agree to the collection and use of information as described in this policy.
 
 
-1. Information we collect
+1. Information We Collect
 
-a.) Current location of your device.
+We collect the following types of information to provide and improve our services:
+
+a. Location Data
+
+- Foreground location -- collected while the Application is in use, to display your current position on the map and assist with vehicle request submissions.
+- Background location -- collected when you are an active driver who has checked in or enabled background tracking. This allows the system to continuously update vehicle positions on the Traccar server even when the app is not in the foreground.
+
+We will always ask for your explicit permission before collecting location data and will explain the reason at the time of the request.
+
+b. Account and Identity Information
+
+- Your user account details (name, email address, role) provided during authentication via our identity provider.
+- Your assigned role within the organization (Driver or Employee), which determines the features available to you.
+
+c. Device Information
+
+- Device token -- a Firebase Cloud Messaging (FCM) token used to deliver push notifications about trip updates, vehicle assignments, and account status changes.
+
+d. Usage Data
+
+- Trip history, vehicle request records, and check-in/check-out timestamps associated with your account.
+
 
 2. How We Use Your Information
 
-We may use the information collected from you for the following purposes:
--To verify the customer’s identity
--To provide and maintain the App's functionality and services.
+We use the collected information for the following purposes:
 
-3. Data Security 
+- To authenticate your identity and authorize access to role-appropriate features.
+- To enable real-time vehicle tracking and display live positions on the map.
+- To process vehicle requests and manage trip assignments between employees and drivers.
+- To send push notifications about trip status changes, vehicle assignments, and important account updates.
+- To maintain the security and integrity of our platform.
+- To comply with applicable legal obligations.
 
-We take reasonable measures to protect the security of your information and prevent unauthorized access, disclosure, alteration, or destruction. However, no method of transmission over the internet or electronic storage is 100% secure, and we cannot guarantee that the user information that may have previously been provided will not be intercepted by others.
+
+3. Background Location Disclosure
+
+The Application collects location data in the background only for users in the Driver role who have explicitly enabled background tracking or performed a check-in action. This data is used solely to update vehicle position on the company's Traccar fleet management server.
+
+Background location collection will not be used for advertising, profiling, or sold to third parties.
+
+You may revoke background location permission at any time through your device settings. Doing so will disable continuous tracking features but will not affect your ability to use other parts of the Application.
 
 
-4. Updates to this Privacy Policy
-We may update this Privacy Policy from time to time to reflect changes in our practices or for other operational, legal, or regulatory reasons. We will notify you of any material changes by posting the updated Privacy Policy within the App or by other means.
+4. Data Sharing and Third Parties
 
-5. Contact Us
-If you have any questions or concerns about this Privacy Policy or our privacy practices, please contact us at [ispsale@agbcommunication.com].
+We do not sell, rent, or trade your personal information. We may share data only in the following circumstances:
+
+- Traccar Server (self-hosted by your organization): Stores and processes vehicle GPS positions for fleet management.
+- Firebase (Google): Delivers push notifications via FCM.
+- Keycloak (self-hosted): Handles authentication and session management.
+- Legal authorities: If required by law or to protect the rights and safety of users.
+
+All third-party services used by the Application have their own privacy policies. We encourage you to review them.
+
+
+5. Data Retention
+
+- Location data is retained in accordance with your organization's fleet management policies on the Traccar server.
+- Account data is retained for as long as your account is active. Upon account deletion, your personal data is removed from our servers.
+- Push notification tokens are revoked and removed from our backend when you log out or delete your account.
+
+
+6. Data Security
+
+We implement reasonable technical and organizational measures to protect your information against unauthorized access, disclosure, alteration, or destruction. These include:
+
+- Encrypted communication over HTTPS/WSS for all data transmission.
+- Secure token storage on your device using platform-provided encrypted storage.
+- Session token revocation upon logout or account deletion.
+
+No method of transmission over the internet is 100% secure. While we strive to protect your data, we cannot guarantee absolute security.
+
+
+7. Your Rights and Choices
+
+Depending on your jurisdiction, you may have the right to:
+
+- Access the personal data we hold about you.
+- Correct inaccurate or incomplete data.
+- Delete your account and associated personal data (available directly within the Application under Profile > Delete Account).
+- Withdraw consent for location collection by revoking permissions in your device settings.
+
+To exercise any of these rights, please contact us using the information below.
+
+
+8. Children's Privacy
+
+The Application is intended for use by employees and drivers within an organization. It is not directed at individuals under the age of 13 (or the applicable age of digital consent in your jurisdiction). We do not knowingly collect personal information from children.
+
+
+9. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. When we do, we will revise the "Last Updated" date at the top of this document. For material changes, we will notify you through the Application or via push notification. Continued use of the Application after changes are posted constitutes your acceptance of the updated policy.
+
+
+10. Contact Us
+
+If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us at:
+
+AGB
+Website: https://www.agbcommunication.com
+Email: ispsale@agbcommunication.com
