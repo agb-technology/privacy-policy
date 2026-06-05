@@ -89,7 +89,8 @@ These Terms are governed by the laws of the Republic of the Union of Myanmar. An
 
 ## 12. Contact Us
 
-For questions about these Terms, contact us at:
+If you have any questions, concerns, or requests regarding these Terms of Service, please contact us at:
 
-**AGB Technology Co., Ltd.**
-Email: legal@agb-technology.com
+**AGB**
+Website: https://www.agbcommunication.com
+Email: ispsale@agbcommunication.com

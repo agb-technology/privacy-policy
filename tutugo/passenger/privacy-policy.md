@@ -86,7 +86,8 @@ We may update this Privacy Policy from time to time. We will notify you of signi
 
 ## 10. Contact Us
 
-If you have questions about this Privacy Policy, please contact us at:
+If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us at:
 
-**AGB Technology Co., Ltd.**
-Email: legal@agb-technology.com
+**AGB**
+Website: https://www.agbcommunication.com
+Email: ispsale@agbcommunication.com
