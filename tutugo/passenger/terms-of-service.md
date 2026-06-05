@@ -3,7 +3,7 @@
 **App:** TuTuGo (Passenger)
 **Effective Date:** 2026-06-05
 **Developer:** AGB Technology Co., Ltd.
-**Contact:** legal@agb-technology.com
+**Contact:** ispsale@agbcommunication.com
 
 ---
 
@@ -23,7 +23,7 @@ You must be at least 18 years old (or the age of majority in your jurisdiction) 
 
 - You must provide accurate and complete information when creating an account.
 - You are responsible for maintaining the confidentiality of your login credentials.
-- You must notify us immediately at legal@agb-technology.com if you suspect unauthorized use of your account.
+- You must notify us immediately at ispsale@agbcommunication.com if you suspect unauthorized use of your account.
 - One person may not maintain more than one active passenger account.
 
 ---

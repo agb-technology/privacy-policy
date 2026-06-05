@@ -3,7 +3,7 @@
 **App:** TuTuGo (Passenger)
 **Effective Date:** 2026-06-05
 **Developer:** AGB Technology Co., Ltd.
-**Contact:** legal@agb-technology.com
+**Contact:** ispsale@agbcommunication.com
 
 ---
 
@@ -51,7 +51,7 @@ We do not sell your personal information. We share data only with:
 
 ## 5. Data Retention
 
-We retain your account data for as long as your account is active. Trip history is retained for up to 2 years. You may request deletion of your account and associated data by contacting us at legal@agb-technology.com.
+We retain your account data for as long as your account is active. Trip history is retained for up to 2 years. You may request deletion of your account and associated data by contacting us at ispsale@agbcommunication.com.
 
 ---
 
